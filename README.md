@@ -1,3 +1,4 @@
 # a-demo
-This is my first Git Repository
-author-Vivek Sathish Poojary
+This is my first Git Repository.
+<br>
+Author-Vivek Sathish Poojary
